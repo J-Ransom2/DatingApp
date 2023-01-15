@@ -20,7 +20,6 @@
     "@angular/router": "~13.3.12",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
-    "ngx-bootstrap": "^7.1.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "yarn": "^1.22.18",
